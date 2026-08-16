@@ -2,7 +2,7 @@
 
 ## Status
 
-Approved source selection — source texts pending.
+Approved source selection — source texts pending. 
 
 ## Scope and Use
 
