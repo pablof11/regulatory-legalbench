@@ -20,6 +20,7 @@ For the purpose of this hypothetical scenario, assume that the legal rules conta
 ## Scenario
 
 An EU importer, acting as the authorised CBAM declarant, imports steel during 2026 from an installation operated by a company established in a third country.
+For the purposes of this scenario, assume that the imported steel goods fall within Annex I to Regulation (EU) 2023/956, originate in a third country not listed in Annex III, and that the importer’s total annual net mass of relevant goods exceeds the single mass-based threshold under Article 2a and Annex VII.
 
 The importer chooses to determine the embedded emissions of the imported goods using actual emissions because this results in a lower number of CBAM certificates than the applicable default values.
 
