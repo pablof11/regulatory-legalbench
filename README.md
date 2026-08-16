@@ -19,10 +19,10 @@ The benchmark is designed to test professional legal reasoning, not merely the r
 
 The initial subject areas include:
 
-Customs & International Trade
-Tax & Foreign Exchange Regulation
-Regulatory Compliance & Enforcement
-Evidence & Administrative Decision-Making
+- Customs & International Trade
+- Tax & Foreign Exchange Regulation
+- Regulatory Compliance & Enforcement
+- Evidence & Administrative Decision-Making
 
 ## Version 0.1
 
