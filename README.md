@@ -19,12 +19,10 @@ The benchmark is designed to test professional legal reasoning, not merely the r
 
 The initial subject areas include:
 
-- customs and international trade;
-- the Carbon Border Adjustment Mechanism (CBAM);
-- tax and foreign-exchange regulation;
-- regulatory compliance and enforcement;
-- evidence assessment;
-- administrative decision-making.
+Customs & International Trade
+Tax & Foreign Exchange Regulation
+Regulatory Compliance & Enforcement
+Evidence & Administrative Decision-Making
 
 ## Version 0.1
 
@@ -40,7 +38,7 @@ Each completed benchmark case will progressively include:
 
 ## First Case
 
-**CBAM-001 — Incorrect actual embedded emissions data**
+**First Case: CBAM-001**
 
 The first case examines the legal and evidentiary consequences of an EU importer relying on incorrect emissions information supplied by a third-country producer or verifier, where the error reduces the number of CBAM certificates surrendered.
 
